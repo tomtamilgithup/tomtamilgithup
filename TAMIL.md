@@ -14,7 +14,7 @@
 ### 📊 GitHub Stats
 <!-- Live updating animated stat cards -->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TAMILSELVAN&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
@@ -24,4 +24,4 @@
 
 ### 📫 Let's Connect
 * **Twitter:** [@YourHandle](https://twitter.com/yourhandle)
-* **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
+* **LinkedIn:** [Tamil Selvan](https://linkedin.com/in/yourprofile)
